@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨‍💻 Dhiraj Kumar
 
-<!--
-**Dhiraj9798/Dhiraj9798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="color:#00FFFF;">**Full-Stack Developer | Animation Expert | Web Developer**</span>
 
-Here are some ideas to get you started:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj474) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dhiraj9798)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| | | |
+|---|---|
+| <h3 style="color:#00FFFF;">💻 FRONTEND</h3> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) <h3 style="color:#FFD700;">✨ ANIMATION</h3> ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=gsap&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Canvas](https://img.shields.io/badge/Canvas-FF7C00?style=flat-square) <h3 style="color:#FF69B4;">⚙️ BACKEND</h3> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) <h3 style="color:#00FF00;">🔧 LANGUAGES</h3> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) <h3 style="color:#FF8C00;">🛠️ TOOLS</h3> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | <h3 style="color:#FF1493;">💼 WORK EXPERIENCE</h3> <span style="color:#00FFFF;">**Frontend Developer** – BN IntelHub Pvt. Ltd. (2026–Present)</span> ✅ Responsive UI with React.js & HTML5/CSS3 ✅ GSAP scroll animations & transitions ✅ Modern design & wireframe implementation <span style="color:#FFD700;">**E-Commerce Manager** – Swevex Tech (Amazon) (2025)</span> ✅ Product listing management ✅ Catalog data accuracy ✅ SEO optimization <h3 style="color:#00FF7F;">📚 EDUCATION</h3> <span style="color:#00FFFF;">🎯 MCA (2023–2025) – Ranchi University</span> <span style="color:#FFD700;">🎯  <h3 style="color:#FF8C00;">🏆 PROJECTS</h3> <span style="color:#00FFFF;">🏢 IRGS Welfare → NGO System (React, PHP, MySQL)</span> <span style="color:#FFD700;">🏗️ Prodeveloper → Real Estate (React, Node.js)</span> <span style="color:#FF69B4;">🛍️ Village Mart → E-commerce (React, PHP)</span> <span style="color:#00FF7F;">✨ AstroConnect → Vedic AI (React, GSAP)</span> <h3 style="color:#FF1493;">🎖️ CERTIFICATIONS</h3> <span style="color:#00FFFF;">✓ Cyber Security (2025)</span> <span style="color:#FFD700;">✓ Java Full Stack – Anudip (2023)</span> <span style="color:#FF69B4;">✓ C++ Programming – Alpine (2018)</span> |
+
+---
+
+<span style="color:#00FFFF;">**Made with ❤️ by Dhiraj Kumar**</span>
